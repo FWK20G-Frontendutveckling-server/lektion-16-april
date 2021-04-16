@@ -33,7 +33,6 @@
 const lowdb = require('lowdb');
 const express = require('express');
 const FileSync = require('lowdb/adapters/FileSync');
-const { request } = require('express');
 
 const adapter = new FileSync('accounts.json');
 const database = lowdb(adapter);
