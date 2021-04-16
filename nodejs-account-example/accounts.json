@@ -1,0 +1,24 @@
+{
+  "accounts": [
+    {
+      "username": "Chris",
+      "email": "chris@chris.se",
+      "password": "pwd123"
+    },
+    {
+      "username": "Chris",
+      "email": "chris@chris.se",
+      "password": "pwd123"
+    },
+    {
+      "username": "test",
+      "email": "chris@chris.se",
+      "password": "pwd123"
+    },
+    {
+      "username": "Ada",
+      "email": "ada@lovelace.se",
+      "password": "pwd123"
+    }
+  ]
+}
